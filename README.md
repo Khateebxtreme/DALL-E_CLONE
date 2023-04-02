@@ -45,6 +45,7 @@
 
 ## Demo
 
+**Video walkthrough on how to navigate and explore various features of this web app**
 
 
 https://user-images.githubusercontent.com/39136324/229374250-0f311d9c-692f-41e1-8ad4-8bd2bc012bef.mp4
