@@ -18,6 +18,7 @@
 - provides an option to download and share generated image.
 - search functionality to filter out the images that are not desired.
 - shared images are stored on cloud (using cloudinary API) for it to be Accessible indefinitely.
+- images stored on cloud is accessed from the homepage to display them.
 
 
 ## TechStack
