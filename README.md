@@ -31,6 +31,10 @@
 
 ![chrome_O0tOPMBPfm](https://user-images.githubusercontent.com/39136324/229374719-594c32c2-8893-45f9-b354-7daacfd13d83.png)
 
+### Sample image created (Image creation page)
+
+![chrome_oTpmsZtc1z](https://user-images.githubusercontent.com/39136324/229374971-5d736711-d670-4c7e-9a0f-292f3c62b1b8.png)
+
 
 ## Demo
 
