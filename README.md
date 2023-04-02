@@ -21,6 +21,16 @@
 
 **Third Party Services:** DALL-E API, Cloudinary API, Vite
 
+## Screens
+
+### Homepage
+
+![chrome_Wi6upgRCtf](https://user-images.githubusercontent.com/39136324/229374698-2873d468-9c38-4ce9-acf9-f6e27e7439cf.png)
+
+### Image Creation page
+
+![chrome_O0tOPMBPfm](https://user-images.githubusercontent.com/39136324/229374719-594c32c2-8893-45f9-b354-7daacfd13d83.png)
+
 
 ## Demo
 
