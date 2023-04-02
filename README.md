@@ -3,6 +3,13 @@
 
 **DALL-E CLONE** is an AI image generating web app that uses artificial intelligence to create images from scratch using a provided prompt. Users can interact with the app through a user-friendly interface to provide some required prompts to generate an image in accordance with their needs and **DALL-E CLONE** also gives users an optional choice to share their generated images with the community.
 
+## Table of Contents
+- [Features](#features)
+- [TechStack](#techstack)
+- [Screens](#screens)
+- [Video Demo](#demo)
+- [Authors](#authors)
+- [License](#license)
 
 ## Features
 
@@ -13,7 +20,7 @@
 - shared images are stored on cloud (using cloudinary API) for it to be Accessible indefinitely.
 
 
-## Tech Stack
+## TechStack
 
 **Client:** React, TailwindCSS
 
