@@ -58,6 +58,10 @@ https://user-images.githubusercontent.com/39136324/229374250-0f311d9c-692f-41e1-
 
 - [@Khateebxtreme](https://github.com/Khateebxtreme)
 
+## Notes
+
+- **Hosting Services :** render , netlify
+- **DALL-E API key expiry:** June 1 2023
 
 ## License
 
