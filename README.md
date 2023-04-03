@@ -14,6 +14,7 @@
 ## Features
 
 - User friendly interface for better user experience.
+- provided with a surprise me button to help users generate random prompts for testing
 - Accessible through all kinds of devices (Tablets , desktop , phones etc).
 - provides an option to download and share generated image.
 - search functionality to filter out the images that are not desired.
