@@ -63,7 +63,7 @@ https://user-images.githubusercontent.com/39136324/229374250-0f311d9c-692f-41e1-
 
 - **Hosting Services :** render , netlify
 - **DALL-E API key expiry :** June 1 2023
-- **On Key Expiry :** Generate a new API key with a new account and make changes to the environment variables in both .env file and render's environment variable settings.
+- **On DALL-E API Key Expiry :** Generate a new API key with a new account and make changes to the environment variables in both .env file and render's environment variable settings.
 
 ## License
 
