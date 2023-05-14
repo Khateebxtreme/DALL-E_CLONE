@@ -64,6 +64,7 @@ https://user-images.githubusercontent.com/39136324/229374250-0f311d9c-692f-41e1-
 - **Hosting Services :** render , netlify
 - **DALL-E API key expiry :** June 1 2023
 - **On DALL-E API Key Expiry :** Generate a new API key with a new account and make changes to the environment variables in both .env file and render's environment variable settings.
+- **TypeError_Failed to Fetch :** This error doesn't occur because of any problem in code but It is an ongoing issue with render based servers which hosts free services like this project ( personal note - usually redeploying the project manually works but It only helps to bypass this issue for a short while )
 
 ## License
 
