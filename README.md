@@ -1,4 +1,4 @@
-### IMPORTANT NOTICE -> [ Please go to Notes ](#notes) 
+### IMPORTANT NOTICE -> [ READ THIS ](#notes)
 
 # DALL-E CLONE
 
@@ -62,6 +62,7 @@ https://user-images.githubusercontent.com/39136324/229374250-0f311d9c-692f-41e1-
 
 ## Notes
 
+- **Temporary Unavailability of Certain Website Features :** As the API will be nearing it's expiry date, the image generation feature provided by DALL-E API will expire because of free trial expiry and If we want to bring the feature back for free , instructions are provided in this section.
 - **Hosting Services :** render , netlify
 - **DALL-E API key expiry :** June 1 2023 ![info](https://github.com/Khateebxtreme/DALL-E_CLONE/assets/39136324/af2227e9-f89a-436a-be22-6e648ea047ef)
 
