@@ -1,3 +1,4 @@
+### IMPORTANT NOTICE -> [ Please go to Notes ](#notes) 
 
 # DALL-E CLONE
 
