@@ -63,7 +63,7 @@ https://user-images.githubusercontent.com/39136324/229374250-0f311d9c-692f-41e1-
 ## Notes
 
 - **Temporary Unavailability of Certain Website Features :** As the API will be nearing it's expiry date, the image generation feature provided by DALL-E API will expire because of free trial exhaustion. If I want to bring the feature back for free, instructions are provided on how I will resolve this problem in this section. If someone wants to know how this project worked in the past, video demo is provided in the [ Demo ](#demo) section.
-- **Hosting Services :** render , netlify
+- **Hosting Services :** Netlify (Front-End), Render (Back-End)
 - **DALL-E API key expiry :** June 1 2023 ![info](https://github.com/Khateebxtreme/DALL-E_CLONE/assets/39136324/af2227e9-f89a-436a-be22-6e648ea047ef)
 
 - **On DALL-E API Key Expiry :** Generate a new API key with a new account and make changes to the environment variables in both .env file and render's environment variable settings.
