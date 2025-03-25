@@ -62,13 +62,14 @@ https://user-images.githubusercontent.com/39136324/229374250-0f311d9c-692f-41e1-
 
 ## Notes
 
+- **Important :** The following project is now offline and is currently unavailable from the mentioned hosting services.
 - **Temporary Unavailability of Certain Website Features :** As the API will be nearing it's expiry date, the image generation feature provided by DALL-E API will expire because of free trial exhaustion. If I want to bring the feature back for free, instructions are provided on how I will resolve this problem in this section. If someone wants to know how this project worked in the past, video demo is provided in the [ Demo ](#demo) section.
 - **Hosting Services :** Netlify (Front-End), Render (Back-End)
 - **DALL-E API key expiry :** June 1 2023 ![info](https://github.com/Khateebxtreme/DALL-E_CLONE/assets/39136324/af2227e9-f89a-436a-be22-6e648ea047ef)
 
 - **On DALL-E API Key Expiry :** Generate a new API key with a new account and make changes to the environment variables in both .env file and render's environment variable settings.
 - **TypeError_Failed to Fetch :** This error doesn't occur because of any problem in code but It is an ongoing issue with render based servers which hosts free services like this project ( personal note - usually redeploying the project on render manually works but It only helps to bypass this issue for a short while )
-- **SyntaxError: Unexpected token 'B', "Billing ha"... is not valid JSON :** This error occurs because of API key's free trial exhaustion. To deal with this error, instructions are provided in this section. 
+- **SyntaxError: Unexpected token 'B', "Billing ha"... is not valid JSON :** This error occurs because of API key's free trial exhaustion. To deal with this error, instructions are provided in this section.
 
 ## License
 
